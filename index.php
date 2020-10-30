@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Automatic Slideshow</title>
+<title>Automatic Slideshow ESGI</title>
 <style type="text/css">
 #anim{
 background:url(img/ban-restaurant.jpg) center no-repeat;
